@@ -1,4 +1,4 @@
-# mern-ecommerce
+# WebProject_ShoppersDelight
 
 > Frontend-> React JS
 
@@ -9,12 +9,12 @@
 ## Installation process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/ashraf-kabir/mern-ecommerce.git
+    git clone https://github.com/Praths97/WebProject_ShoppersDelight.git
     ```
 2. #### install npm packages
     1. install backend packages
     ```bash
-    cd mern-ecommerce
+    cd WebProject_ShoppersDelight
     npm install
     ```
     2. install frontend packages
@@ -22,10 +22,10 @@
     cd client
     npm install
     ```
-3. go to the parent folder of mern-ecommerce & create .env for connection, JWT_SECRET, BRAINTREE_MERCHANT_ID, BRAINTREE_PUBLIC_KEY and BRAINTREE_PRIVATE_KEY.
+3. go to the parent folder of WebProject_ShoppersDelight & create .env for connection, JWT_SECRET, BRAINTREE_MERCHANT_ID, BRAINTREE_PUBLIC_KEY and BRAINTREE_PRIVATE_KEY.
 
     ```bash
-    cd mern-ecommerce
+    cd WebProject_ShoppersDelight
     sudo nano .env
     ```
     (ctrl+x to save & nano follow instruction there)
@@ -41,7 +41,7 @@
 4.  create another .env file inside client directory for REACT_APP_API_URL.
 
     ```bash
-    cd mern-ecommerce/client
+    cd WebProject_ShoppersDelight/client
     sudo nano .env
     ```
     ##### sample code for frontend .env
@@ -58,7 +58,7 @@
 
 5. <b>deploy this project</b> on your local server by using this command
     ```bash
-    cd mern-ecommerce
+    cd WebProject_ShoppersDelight
     npm run dev
     ```
     #### note: both backend & frontend server will start at once with the above command.

@@ -1,5 +1,5 @@
 {
-  "name": "mern-ecommerce",
+  "name": "WebProject_ShoppersDelight",
   "version": "1.0.0",
   "description": "ecommerce site",
   "engines": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashraf-kabir/mern-ecommerce.git"
+    "url": "git+https://github.com/Praths97/WebProject_ShoppersDelight.git"
   },
   "keywords": [],
   "author": "",
